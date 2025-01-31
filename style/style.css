@@ -1,6 +1,7 @@
 /* This is CSS */
 
 #header1 {
+    text-align: center;
     color: green;
 }
 
@@ -11,7 +12,7 @@
 } 
 
 .class1 {
-    color: pink;
+    color: rgb(168, 2, 30);
     background-color: rgba(1, 122, 5, 0.51);
 }
 
@@ -30,6 +31,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgb(87, 172, 247);
+    padding: 20px;;
 }
 
 #smcc_logo img {
